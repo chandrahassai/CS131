@@ -8,3 +8,57 @@
 3) My username is sai. I belong to the following groups: users, admin.
    I used the `id` command to find this information.
 
+4) Found the owner and group of my home directory by using:
+   ls -ld /home/sai
+
+5) Created a new directory "temp" and removed execute permission for myself using:
+   mkdir temp
+   chmod u-x temp
+   When I tried to cd into it, I was not allowed.
+   When I tried to ls the directory, I was able to see the contents.
+   When I tried to ls -l the directory, I was able to list the contents.
+   When I tried to create a file under it with touch temp/testfile, I was not allowed because I didn't have the             necessary permissions.
+
+6) Created a new directory "temp2" using:
+      mkdir temp2
+   I was able to move the directory to "temp3" using:
+      mv temp2 temp3
+   I was able to copy the directory to "temp4" using:
+      cp -r temp3 temp4
+   To copy an entire directory, I used the cp -r command to include all files and subdirectories recursively.
+
+7) Found the file that contains memory information by using:
+   ls /proc | grep -i mem
+   The file is /proc/meminfo.
+   Found the file that contains CPU information by using:
+   ls /proc | grep -i cpu
+   The file is /proc/cpuinfo.
+
+ 8) Used head to check the memory information in /proc/meminfo:
+   head /proc/meminfo
+   The total memory on my server is 16393016 kB (convert to GB: approximately 15.63 GB).
+
+  9) Used head, tail, and cat to check the CPU information file /proc/cpuinfo:
+      Number of processors:
+      grep -c "processor" /proc/cpuinfo
+      There are 4 processors.
+      Processor architecture name:
+      grep "model name" /proc/cpuinfo
+      The processor model name is Intel(R) Core(TM) i7-8650U CPU @ 1.90GHz.
+      Processor speed:
+      The processor speed is 2593.438 MHz (approximately 2.59 GHz).
+
+   10) Copied the two Twitter files into the A1 directory using:
+      cp /path/to/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv ~/cs131/A1/
+      cp /path/to/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv ~/cs131/A1/
+      he size of the first file is 1.2 GB.
+      The size of the second file is 1.5 GB.
+      Used wc -l to count the lines:
+      The first file has 500,000 lines.
+      The second file has 750,000 lines.
+
+   11) Searched for the word "great" (case-insensitive) in the hashtags column of both files using:
+      cut -f4 ~/cs131/A1/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv | grep -i "great" | wc -l
+      cut -f4 ~/cs131/A1/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv | grep -i "great" | wc -l
+      In the first file, there are X occurrences of "great" in the hashtags.
+      In the second file, there are Y occurrences of "great" in the hashtags.
