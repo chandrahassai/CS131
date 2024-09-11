@@ -1,0 +1,188 @@
+    1  --register
+    2  insights-client --register
+    3  ssh
+    4  -m
+    5  m
+    6  replace login
+    7  -l
+    8  ssh
+    9  exit
+   10  wget -O out.pdf https://tinyurl.com/yy94jltt
+   11  pwd
+   12  cd
+   13  git clone git clone https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git
+   14  pwd
+   15  cd
+   16  ls latr ; mkdir cs131 ; cd cs131
+   17  git clone
+   18  git remote add origin git clone https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git
+   19  git clone git@bitbucket.org:chandrahassai/cs131.git
+   20  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC2EnaILF8dv7vSCUtr06VDB5Q3aZfl+kZSxpqz2RMwOXZcobIIAdaPRKcUFfjEkTw69ziA0ZjhcN7KrV1P+JJsm9eP9/I5qKeyGgaUz3hwdpeyr8fiAX4421oZtqBoCpkQe73AdlJ6bw0O0qfSr/7kfnSa4cKAWceWsksgMm0bUYRmvQZC3L6VylvKd6Hg34xIAo4BHNCS/a2IJrHTzoWN11llx0zIYKST0WAm/Q6mAURZ60FwfyMV8cUaAFQhlwQJH5hjqmRrKOUc5tzaOVGdpcyGaVGfgVGuJY6qExWUEDMU2oynV5WoG7fwsS7V3eENq2uLFYE/GUq4uhrutatxS/7o+sy9Oo7I7B4ZOOpXuJQ5Q6G6gnQ5Ze3s0widYnqRi/d5/lYU4c5sJn0anilHq29Ji2L3xOqxvF61whSPIq0z6tGn1NEUgaokrR9c6CGH/sJ7y5tYzsCFptAKQcROLFMuV4yp5nE1p000OOKcHUeq9Hm+e2zqRlGFamLD/b8=
+   21  https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git
+   22  git clone git@bitbucket.org:chandrahassai/cs131.git
+   23   git clone git@bitbucket.org:chandrahassai/cs131.git
+   24  git clone git@bitbucket.org:chandrahassai/cs131.git
+   25  cat ~/.ssh/id_rsa.pub | pbcopy
+   26  exit
+   27  $ wget -O out.pdf https://tinyurl.com/yy94jltt
+   28  wget -O out.pdf https://tinyurl.com/yy94jltt
+   29  pwd
+   30  cd
+   31  ls -latr ; mkdir cs131 ; cd cs131
+   32  git init
+   33  git remote add origin git clone https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git
+   34  git config --global user.email "chandrahassai.vishnumolakala@sjsu.edu
+   35  git config --global user.name "chandrahassai vishnumolakala"
+   36  mkdir WS1
+   37  cd WS1
+   38  git add.
+   39  history > cmds.log
+   40  ls -latr
+   41  git add cmds.log
+   42  git commit -m
+   43  git branch
+   44  git push -u origin main
+   45  -f
+   46  pwd
+   47  exit
+   48  mk dir
+   49  mkdir
+   50  ls
+   51  $ls
+   52  --register
+   53  ~/.ssh/authorized_keys
+   54  pwd
+   55  cd
+   56  ls -latr ; mkdir cs131 ; cd cs131
+   57  git init
+   58  git config --global user.email "chandrahassai.vishnumolkala@sjsu.edu"
+   59  git config --global user.name "VishnumolakalaChandrahasSai"
+   60  git remote add origin git clone https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git
+   61  git config --global user.email "chandrahassai.vishnumolakala@sjsu.edu
+   62  exit
+   63  terminate
+   64  pwd
+   65  cd
+   66  ls -latr ; mkdir cs131 ; cd cs131
+   67  git init
+   68  git remote add origin git clone https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git
+   69  git config --global user.email "chandrahassai.vishnumolakala@sjsu.edu"
+   70  git config --global user.name "VishnumolakalaChandrahasSai"
+   71  mkdir WS1
+   72  cd WS1
+   73  git add
+   74  git add .
+   75  history > cmds.log
+   76  ls -latr
+   77  git add cmds.log
+   78  git commit -m "First commit" -a
+   79  git branch
+   80  git push -u origin main
+   81  git push origin main
+   82  git push main
+   83   git push --set-upstream main master
+   84  git push -u origin main
+   85  git push -u main
+   86  git push --set-upstream main master
+   87  git branch
+   88  git checkout -b main
+   89  git push -u origin main
+   90  git remote -v
+   91  git remote add origin <repository-URL>
+   92  git remote add origin <git clone https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git>
+   93  cd /path/to/your/project
+   94  pwd
+   95  git remote add origin https://bitbucket.org/chandrahassai/cs131.git
+   96  git remote -v
+   97  git push -u origin main
+   98  pwd
+   99  cd ~
+  100  ls -latr ; mkdir cs131 ; cd cs131
+  101  git init
+  102  git status
+  103  git remote add origin https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git
+  104  git config --global user.email "chandrahassai.vishnumolakala@sjsu.edu"
+  105  git config --global user.name "VishnumolakalaChandrahasSai"
+  106  mkdir WS1
+  107  ls
+  108  rm WS1
+  109  rmdir WS1
+  110  cd WS1
+  111  ls
+  112  rm cmds.log
+  113  cd ..
+  114  ls
+  115  rmdir WS1
+  116  ls
+  117  mkdir WS1
+  118  ls
+  119  cd WS1
+  120  git add .
+  121  history > cmds.log
+  122  ls
+  123  ls -latr
+  124  git add cmds.log
+  125  git commit -m "First commit" -a
+  126  git branch
+  127  git push -u origin main
+  128  git pull --rebase origin main
+  129  Chandrahas Sai Vishnumolakala
+  130  git push -u origin main
+  131  ls
+  132  mkdir WS1
+  133  ls
+  134  cd cs131
+  135  ls
+  136  cd WS1
+  137  ls
+  138  git add .
+  139  ls
+  140  ls -latr
+  141  git add cmds.log 
+  142  git commit -m "First commit" -a
+  143  git branch
+  144  git push -u origin main
+  145  git
+  146  git config --global credential.helper osxkeychain
+  147  clear
+  148  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+  149  ssh-keygen -t rsa -b 4096 -"chandrahassai.vishnumolakala@sjsu.edu"
+  150  ssh-keygen -t rsa -b 4096 -C "chandrahassai.vishnumolakala@sjsu.edu"
+  151  clear
+  152  git push -u origin main
+  153  ls
+  154  git push -u origin main
+  155  git config --global --unset credential.helper
+  156  git config --global credential.helper store
+  157  git config --global credential.helper cache
+  158  git push -u origin main
+  159  git credential-cache exit
+  160  git config --global --unset credential.helper
+  161  git remote set-url origin git@bitbucket.org:chandrahassai/cs131.git
+  162  git push -u origin main
+  163  git clone git@bitbucket.org:chandrahassai/cs131.git
+  164  rm -rf cs131
+  165  git clone git@bitbucket.org:chandrahassai/cs131.git
+  166  ps -ax | grep ssh-agent
+  167  eval $(ssh-agent)
+  168  cd ~
+  169  ssh-keygen -t ed25519 -b 4096 -C "chandrahassai.vishnumolakala@sjsu.edu" -f cs131
+  170  ssh-add ~/cs131
+  171  mkdir .ssh
+  172  cd .ssh
+  173  vim config
+  174  ls
+  175  cd
+  176  ls
+  177  mv cs131* .ssh/
+  178  cat .ssh/cs131.pub
+  179  ssh -T git@bitbucket.org
+  180  git clone git@bitbucket.org:chandrahassai/cs131.git
+  181  pwd
+  182  cd ~
+  183  ls -latr ; cd cs131
+  184  git config --global user.email "chandrahassai.vishnumolakala@sjsu.edu"
+  185  git config --global user.name "Chandrahas Sai Vishnumolakala"
+  186  mkdir WS1
+  187  cd WS1
+  188  history > cmds.log
