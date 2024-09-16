@@ -1,0 +1,766 @@
+    1  --register
+    2  insights-client --register
+    3  ssh
+    4  -m
+    5  m
+    6  replace login
+    7  -l
+    8  ssh
+    9  exit
+   10  wget -O out.pdf https://tinyurl.com/yy94jltt
+   11  pwd
+   12  cd
+   13  git clone git clone https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git
+   14  pwd
+   15  cd
+   16  ls latr ; mkdir cs131 ; cd cs131
+   17  git clone
+   18  git remote add origin git clone https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git
+   19  git clone git@bitbucket.org:chandrahassai/cs131.git
+   20  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQC2EnaILF8dv7vSCUtr06VDB5Q3aZfl+kZSxpqz2RMwOXZcobIIAdaPRKcUFfjEkTw69ziA0ZjhcN7KrV1P+JJsm9eP9/I5qKeyGgaUz3hwdpeyr8fiAX4421oZtqBoCpkQe73AdlJ6bw0O0qfSr/7kfnSa4cKAWceWsksgMm0bUYRmvQZC3L6VylvKd6Hg34xIAo4BHNCS/a2IJrHTzoWN11llx0zIYKST0WAm/Q6mAURZ60FwfyMV8cUaAFQhlwQJH5hjqmRrKOUc5tzaOVGdpcyGaVGfgVGuJY6qExWUEDMU2oynV5WoG7fwsS7V3eENq2uLFYE/GUq4uhrutatxS/7o+sy9Oo7I7B4ZOOpXuJQ5Q6G6gnQ5Ze3s0widYnqRi/d5/lYU4c5sJn0anilHq29Ji2L3xOqxvF61whSPIq0z6tGn1NEUgaokrR9c6CGH/sJ7y5tYzsCFptAKQcROLFMuV4yp5nE1p000OOKcHUeq9Hm+e2zqRlGFamLD/b8=
+   21  https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git
+   22  git clone git@bitbucket.org:chandrahassai/cs131.git
+   23   git clone git@bitbucket.org:chandrahassai/cs131.git
+   24  git clone git@bitbucket.org:chandrahassai/cs131.git
+   25  cat ~/.ssh/id_rsa.pub | pbcopy
+   26  exit
+   27  $ wget -O out.pdf https://tinyurl.com/yy94jltt
+   28  wget -O out.pdf https://tinyurl.com/yy94jltt
+   29  pwd
+   30  cd
+   31  ls -latr ; mkdir cs131 ; cd cs131
+   32  git init
+   33  git remote add origin git clone https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git
+   34  git config --global user.email "chandrahassai.vishnumolakala@sjsu.edu
+   35  git config --global user.name "chandrahassai vishnumolakala"
+   36  mkdir WS1
+   37  cd WS1
+   38  git add.
+   39  history > cmds.log
+   40  ls -latr
+   41  git add cmds.log
+   42  git commit -m
+   43  git branch
+   44  git push -u origin main
+   45  -f
+   46  pwd
+   47  exit
+   48  mk dir
+   49  mkdir
+   50  ls
+   51  $ls
+   52  --register
+   53  ~/.ssh/authorized_keys
+   54  pwd
+   55  cd
+   56  ls -latr ; mkdir cs131 ; cd cs131
+   57  git init
+   58  git config --global user.email "chandrahassai.vishnumolkala@sjsu.edu"
+   59  git config --global user.name "VishnumolakalaChandrahasSai"
+   60  git remote add origin git clone https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git
+   61  git config --global user.email "chandrahassai.vishnumolakala@sjsu.edu
+   62  exit
+   63  terminate
+   64  pwd
+   65  cd
+   66  ls -latr ; mkdir cs131 ; cd cs131
+   67  git init
+   68  git remote add origin git clone https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git
+   69  git config --global user.email "chandrahassai.vishnumolakala@sjsu.edu"
+   70  git config --global user.name "VishnumolakalaChandrahasSai"
+   71  mkdir WS1
+   72  cd WS1
+   73  git add
+   74  git add .
+   75  history > cmds.log
+   76  ls -latr
+   77  git add cmds.log
+   78  git commit -m "First commit" -a
+   79  git branch
+   80  git push -u origin main
+   81  git push origin main
+   82  git push main
+   83   git push --set-upstream main master
+   84  git push -u origin main
+   85  git push -u main
+   86  git push --set-upstream main master
+   87  git branch
+   88  git checkout -b main
+   89  git push -u origin main
+   90  git remote -v
+   91  git remote add origin <repository-URL>
+   92  git remote add origin <git clone https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git>
+   93  cd /path/to/your/project
+   94  pwd
+   95  git remote add origin https://bitbucket.org/chandrahassai/cs131.git
+   96  git remote -v
+   97  git push -u origin main
+   98  pwd
+   99  cd ~
+  100  ls -latr ; mkdir cs131 ; cd cs131
+  101  git init
+  102  git status
+  103  git remote add origin https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git
+  104  git config --global user.email "chandrahassai.vishnumolakala@sjsu.edu"
+  105  git config --global user.name "VishnumolakalaChandrahasSai"
+  106  mkdir WS1
+  107  ls
+  108  rm WS1
+  109  rmdir WS1
+  110  cd WS1
+  111  ls
+  112  rm cmds.log
+  113  cd ..
+  114  ls
+  115  rmdir WS1
+  116  ls
+  117  mkdir WS1
+  118  ls
+  119  cd WS1
+  120  git add .
+  121  history > cmds.log
+  122  ls
+  123  ls -latr
+  124  git add cmds.log
+  125  git commit -m "First commit" -a
+  126  git branch
+  127  git push -u origin main
+  128  git pull --rebase origin main
+  129  Chandrahas Sai Vishnumolakala
+  130  git push -u origin main
+  131  ls
+  132  mkdir WS1
+  133  ls
+  134  cd cs131
+  135  ls
+  136  cd WS1
+  137  ls
+  138  git add .
+  139  ls
+  140  ls -latr
+  141  git add cmds.log 
+  142  git commit -m "First commit" -a
+  143  git branch
+  144  git push -u origin main
+  145  git
+  146  git config --global credential.helper osxkeychain
+  147  clear
+  148  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+  149  ssh-keygen -t rsa -b 4096 -"chandrahassai.vishnumolakala@sjsu.edu"
+  150  ssh-keygen -t rsa -b 4096 -C "chandrahassai.vishnumolakala@sjsu.edu"
+  151  clear
+  152  git push -u origin main
+  153  ls
+  154  git push -u origin main
+  155  git config --global --unset credential.helper
+  156  git config --global credential.helper store
+  157  git config --global credential.helper cache
+  158  git push -u origin main
+  159  git credential-cache exit
+  160  git config --global --unset credential.helper
+  161  git remote set-url origin git@bitbucket.org:chandrahassai/cs131.git
+  162  git push -u origin main
+  163  git clone git@bitbucket.org:chandrahassai/cs131.git
+  164  rm -rf cs131
+  165  git clone git@bitbucket.org:chandrahassai/cs131.git
+  166  ps -ax | grep ssh-agent
+  167  eval $(ssh-agent)
+  168  cd ~
+  169  ssh-keygen -t ed25519 -b 4096 -C "chandrahassai.vishnumolakala@sjsu.edu" -f cs131
+  170  ssh-add ~/cs131
+  171  mkdir .ssh
+  172  cd .ssh
+  173  vim config
+  174  ls
+  175  cd
+  176  ls
+  177  mv cs131* .ssh/
+  178  cat .ssh/cs131.pub
+  179  ssh -T git@bitbucket.org
+  180  git clone git@bitbucket.org:chandrahassai/cs131.git
+  181  pwd
+  182  cd ~
+  183  ls -latr ; cd cs131
+  184  git config --global user.email "chandrahassai.vishnumolakala@sjsu.edu"
+  185  git config --global user.name "Chandrahas Sai Vishnumolakala"
+  186  mkdir WS1
+  187  cd WS1
+  188  history > cmds.log
+  189  ls -latr
+  190  cd ..
+  191  git add .
+  192  git status
+  193  vim .gitignore
+  194  git status
+  195  git add .
+  196  git status
+  197  git commit -m "First commit" -a
+  198  git status
+  199  git push -u origin main
+  200  pwd
+  201  git status
+  202  giinit
+  203  git init
+  204  git config --global user.name "chandrahassai.vishnumolakala@sjsu.edu"
+  205  git config --global user.name "chandrahas sai vishnumolakala"
+  206  git status
+  207  eval $(ssh-agent -s)
+  208  cs131@2024
+  209  ssh-add ~/.ssh/id_rsa
+  210  git status
+  211  /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv
+  212  pwd
+  213  /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv
+  214  /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv
+  215  pwd
+  216  mkdir 
+  217  pwd
+  218  cd
+  219  pwd
+  220  mkdir WS2
+  221  pwd
+  222  ls cs131
+  223  pwd
+  224  mkdir WS2
+  225  cd WS2
+  226  /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv
+  227  /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv
+  228  /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv
+  229  /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv
+  230  cd path_to_your_cs131/ws2/
+  231  cp /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv .
+  232  cp /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv .
+  233  echo "ws2/twitter_file1" >> .gitignore
+  234  echo "ws2/twitter_file2" >> .gitignore
+  235  grep "replied_to" ws2/twitter_file1 > ws2/replies_file1.txt
+  236  grep "replied_to" ws2/twitter_file2 > ws2/replies_file2.txt
+  237  grep "replied_to" WS2/twitter_file1 > WS2/replies_file1.txt
+  238  grep "replied_to" WS2/twitter_file2 > WS2/replies_file2.txt
+  239  pwd
+  240  cp /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv ~/cs131/WS2
+  241  cp /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv ~/cs131/WS2
+  242  # Search for lines with "replied_to" and save the output in files
+  243  grep "replied_to" ~/cs131/WS2/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv > ~/cs131/WS2/replies_nolf.txt
+  244  grep "replied_to" ~/cs131/WS2/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv > ~/cs131/WS2/replies_original_ids.txt
+  245  # Search for lines with "replied_to" and save the output in files
+  246  grep "replied_to" ~/cs131/WS2/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv > ~/cs131/WS2/replies_nolf.txt
+  247  grep "replied_to" ~/cs131/WS2/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv > ~/cs131/WS2/replies_original_ids.txt
+  248  # Search for lines with "replied_to" and save the output in files
+  249  grep "replied_to" ~/cs131/WS2/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv > ~/cs131/WS2/replies_nolf.txt
+  250  grep "replied_to" ~/cs131/WS2/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv > ~/cs131/WS2/replies_original_ids.txt
+  251  ls ~/cs131
+  252  mkdir -p ~/cs131/WS2
+  253  ls /mnt/scratch/CS131_billa/billandreopoulos/
+  254  cp /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv ~/cs131/WS2
+  255  cp /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv ~/cs131/WS2
+  256  grep "replied_to" ~/cs131/WS2/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv > ~/cs131/WS2/replies_nolf.txt
+  257  grep "replied_to" ~/cs131/WS2/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv > ~/cs131/WS2/replies_original_ids.txt
+  258  ls
+  259  # Grep for lines with "replied_to" in the first file
+  260  grep "replied_to" ~/cs131/WS2/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv > ~/cs131/WS2/replies_nolf.txt
+  261  # Grep for lines with "replied_to" in the second file
+  262  grep "replied_to" ~/cs131/WS2/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv > ~/cs131/WS2/replies_original_ids.txt
+  263  grep "replied_to" ~/cs131/WS2/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv > ~/cs131/WS2/replies_nolf.txt
+  264  grep "replied_to" ~/cs131/WS2/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv > ~/cs131/WS2/replies_original_ids.txt
+  265  # Check permissions of the files in WS2
+  266  ls -l ~/cs131/WS2
+  267  # Check permissions of the source files
+  268  ls -l /mnt/scratch/CS131_billa/billandreopoulos/
+  269  # Example of giving read and write permissions (adjust according to your permissions)
+  270  chmod u+rw ~/cs131/WS2/*
+  271  grep "replied_to" ~/cs131/WS2/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv >> ~/cs131/WS2/replies_original_ids.txt
+  272  echo "Test line" > ~/cs131/WS2/test.txt
+  273  grep "replied_to" ~/cs131/WS2/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv > ~/replies_original_ids_test.txt
+  274  # Remove the WS2 directory and recreate it
+  275  rm -rf ~/cs131/WS2
+  276  mkdir -p ~/cs131/WS2
+  277  grep "replied_to" ~/cs131/WS2/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv > ~/cs131/WS2/replies_original_ids.txt
+  278  head -n 100 ~/cs131/WS2/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv | grep "replied_to" > ~/cs131/WS2/replies_original_ids_sample.txt
+  279  ls
+  280  head -n 100 ~/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv | grep "replied_to" > ~/replies_original_ids_sample.txt
+  281  cd ../
+  282  ls
+  283  cd ws2
+  284  cd WS2
+  285  ls
+  286  head -nC 100 ~/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv | grep "replied_to" > ~/replies_o
+  287  grep "replied_to" ~/cs131/WS2/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv > ~/cs131/WS2/replies_original_ids.txt
+  288  ls'
+  289  Ωçç
+  290  ç√
+  291  aspfxidjp[aijsdfpΩΩΩ
+  292  exit()
+  293  exit
+  294  clear
+  295  clear
+  296  cçççççççç
+  297  /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv
+  298  /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv
+  299  clear
+  300  ls
+  301  cd WS2/
+  302  clear
+  303  ls
+  304  vim downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv 
+  305  clear
+  306  grep "replied_to" twitterfile1.txt > replies1.txt
+  307  grep "replied_to" twitterfile2.txt > replies2.txt
+  308  grep "replied_to" downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv > replies1.txt
+  309  grep "replied_to" downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv > replies2.txt
+  310  grep "retweeted" downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv > retweets1.txt
+  311  grep "retweeted" downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv > retweets2.txt
+  312  wc -l -w replies1.txt >> counts.txt
+  313  wc -l -w replies2.txt >> counts.txt
+  314  wc -l -w retweets1.txt >> counts.txt
+  315  wc -l -w retweets2.txt >> counts.txt
+  316  nano counts.txt
+  317  history > cmds.log
+  318  git add counts.txt cmds.log
+  319  git commit -m "Added counts.txt and cmds.log for WS2"
+  320  git push origin main
+  321  git push main
+  322  git branch
+  323  git push origin master
+  324  git push origin main
+  325  git push origin master
+  326  git branch -M main
+  327  git push origin main
+  328  git push origin master
+  329  clear
+  330  git push origin master
+  331  git branch
+  332  git push origin main
+  333  git remote -v
+  334  git remote add origin https://bitbucket.org/yourusername/cs131.git
+  335  git remote add origin https://bitbucket.org/chandrahassai/cs131.git
+  336  git remote -v
+  337  git branch
+  338  git push origin master
+  339  git push origin main
+  340  chandrahas sai vishnumolakala
+  341  git push origin main
+  342  git push origin -u main
+  343  cd ../
+  344  ls
+  345  cd cs131/
+  346  ls
+  347  ws2
+  348  cd WS2
+  349  ls
+  350  cd ../
+  351  cd ./
+  352  cd ../
+  353  ls
+  354  cd cs131/
+  355  ls
+  356  cd WS2
+  357  ls
+  358  git push origin main
+  359   git push origin main
+  360  git push origin main
+  361  git push origin main 
+  362  git init
+  363  git push -u origin main
+  364  git push
+  365  git remote add origin git clone https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git
+  366  git config --global user.email "chandrahassai.vishnumolakala@sjsu.edu"
+  367  git config --global user.name "VishnumolakalaChandrahasSai"
+  368  git remote add origin git clone https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git
+  369  git clone git@bitbucket.org:chandrahassai/cs131.git
+  370  git push origin main 
+  371  git push main 
+  372  git push --set-upstream main master
+  373  git remote add origin <git clone https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git>
+  374  mkdir WS3
+  375  cd WS3
+  376  git clone git@bitbucket.org:chandrahassai/cs131.git
+  377  ls
+  378  cd cs131
+  379  ls
+  380  cd..WS2
+  381  cd..
+  382  cd ..
+  383  ls
+  384  rm WS3
+  385  rm -r WS3
+  386  ls
+  387  cp replies_original_ids.txt WS3
+  388  cd WS3
+  389  ls
+  390  cd ..
+  391  cp replies_original_ids_sample.txt WS3
+  392  cd WS3
+  393  cp replies_original_ids_sample.txt cs131
+  394  cp replies_original_ids.txt cs131
+  395  cd cs131
+  396  git add .
+  397  git commit -m "Second commit"
+  398  git push 
+  399  git push
+  400  git push main
+  401  git push --set-upstream main master
+  402  git remote add origin git@bitbucket.org:chandrahassai/cs131.git
+  403  git push 
+  404  git push
+  405  git push origin main
+  406  git branch
+  407  git branch -m master main
+  408  git push -u origin main
+  409  git update
+  410  git pull
+  411  git push -u origin main
+  412  git fetch origin
+  413  git pull origin main
+  414  ls
+  415  cd ..
+  416  ls
+  417  mkdir myproject
+  418  cd myproject
+  419  git clone https://chandrahassaivishnumolakala@bitbucket.org/chandrahassai/cs131.git
+  420  git clone git@bitbucket.org:chandrahassai/cs131.git
+  421  ls
+  422  cd cs131
+  423  ls
+  424  cd ..
+  425  ls
+  426  cp replies_original_ids_sample.txt myproject/cs131
+  427  cd myproject/cs131
+  428  ls
+  429  git add .
+  430  git commit -m "second commit"
+  431  git push 
+  432  cd ~
+  433  cd WS2
+  434  ls
+  435  cd ..
+  436  cd ~
+  437  ls
+  438  cd cs131/
+  439  ls
+  440  cd WS2
+  441  ls
+  442  file downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv
+  443  cp /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv
+  444  cp /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv .
+  445  cp /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv .
+  446  grep "replied_to" downloaded_tweets_extend_nolf.ASCII.CLEAN>tsv
+  447  ls
+  448  find . -name "downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv"
+  449  grep "replied_to" /path/to/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv > replies1.txt
+  450  ls
+  451  find / -name "downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv"
+  452  grep "replied_to" /path/to/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv > replies1.txt
+  453  find . -name "downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv"
+  454  ls
+  455  mkdir ~/cs131/A1
+  456  cd ~/cs131/A1
+  457  pwd
+  458  id
+  459  ls -ld ~
+  460  mkdir temp
+  461  chmod u-x temp
+  462  cd temp
+  463  ls
+  464  ls -l
+  465  touch tempfile
+  466  mkdir temp2
+  467  mv temp2 temp3
+  468  cp -r temp3 temp4
+  469  ls /proc | grep mem
+  470  ls /proc | grep cpu
+  471  head /rpoc/meminfo
+  472  head /proc/cpuinfo
+  473  head /proc/meminfo
+  474  cp /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv ~/cs131/A1/
+  475  cp /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv ~/cs131/A1/
+  476  ls -1h
+  477  wc -1 downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv
+  478  wc -l downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv
+  479  wc -l downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv
+  480  cut -f4 downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv | grep -i "great" | wc -l
+  481  cut -f4 downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv | grep -i "great" | wc -l
+  482  file downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv
+  483  file downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv
+  484  head downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv
+  485  head downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv
+  486  cut -f2 downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv | sort | uniq | wc -l
+  487  cut -f1 downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv | sort | uniq | wc -l
+  488  cut -f4 downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv | sort | uniq | wc -l
+  489  script a1.txt
+  490  more al.txt
+  491  more a1.txt
+  492  nano a1.txt
+  493  cd ~/cs131
+  494  git add A1/a1.txt
+  495  pwd
+  496  ls A1
+  497  git add A1/a1.txt
+  498  git add A1.txt
+  499  git add a1.txt
+  500  cd ~/cs131
+  501  ls
+  502  git add Al.txt
+  503  git add A1.txt
+  504  ls A1
+  505  git add A1/a1.txt
+  506  cd ~/cs131
+  507  ls A1
+  508  find ~ -name "a1.txt"
+  509  mv /path/to/found/a1.txt ~/cs131/A1/
+  510  cd ~/cs131/A1
+  511  nano a1.txt
+  512  ls
+  513  git add A1/a1.txt
+  514  cd cs131/
+  515  git branch
+  516  git status
+  517  git push
+  518  git push --set-upstream origin master
+  519  ls
+  520  cat a1.txt 
+  521  clear
+  522  git branch 
+  523  git branch - a
+  524  git branch -a
+  525  git init
+  526  ls 
+  527  git add a1.txt 
+  528  git add . 
+  529  git rm --cached cs131
+  530  git rm -f  --cached cs131
+  531  clear
+  532  git init
+  533  ls
+  534  git add a1.txt 
+  535  git commit -m 'Completed A1 Assignment'
+  536  cat a1.txt 
+  537  clear 
+  538  git branch 
+  539  git push origin main
+  540  ls 
+  541  ls -la 
+  542  cat .ssh
+  543  cat ~/.ssh/id_rsa.pub
+  544  ssh-keygen -t rsa -b 4096 -C "chandrahassai.vishnumolakala@sjsu.edu"
+  545  git remote -v
+  546  git remote set-url origin git@bitbucket.org:chandrahassai/cs131.git
+  547  git push origin main
+  548  cat ~/.ssh/id_rsa.pub
+  549  clear
+  550  cat ~/.ssh/id_rsa.pub
+  551  ssh -T git@bitbucket.org
+  552  git push origin main
+  553  rm -f /mnt/scratch/CS131_billa/VishnumolakalaChandrahasSai/.ssh/id_rsa
+  554  rm -f /mnt/scratch/CS131_billa/VishnumolakalaChandrahasSai/.ssh/id_rsa.pub
+  555  ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+  556  ssh-keygen -t rsa -b 4096 -C "chandrahassai.vishnumolakala@sjsu.edu"
+  557  ssh -T git@bitbucket.org
+  558  ssh-add -l
+  559  ssh-add /mnt/scratch/CS131_billa/VishnumolakalaChandrahasSai/.ssh/id_rsa
+  560  eval "$(ssh-agent -s)"
+  561  ssh-add /mnt/scratch/CS131_billa/VishnumolakalaChandrahasSai/.ssh/id_rsa
+  562  ssh-add -l
+  563  ssh -T git@bitbucket.org
+  564  nano ~/.ssh/config
+  565  ssh -T git@bitbucket.org
+  566  nano ~/.ssh/config
+  567  ssh-add -l
+  568  ssh -T git@bitbucket.org
+  569  git push origin main
+  570  ssh-agent -k
+  571  ssh -T git@bitbucket.org
+  572  ls
+  573  clear
+  574  git remote set-url origin https://bitbucket.org/chandrahassai/cs131.git
+  575  git init
+  576  ls
+  577  git add a1.txt 
+  578  git git commit -m 'A1 Assignemnt Submitted'
+  579  git commit -m 'A1 Assignemnt Submitted'
+  580  git branch 
+  581  git push origin 
+  582  git push --set-upstream origin main
+  583  git add A1/a1.txt
+  584  git adda1.
+  585  git add a1.txt 
+  586  git commit -m "Add a1.txt to feature-branch"
+  587  git ls
+  588  git branch 
+  589  git checkout -b feature-branch
+  590  git branch
+  591  git add a1.txt 
+  592  ls
+  593  git commit -m "Add a1.txt to feature-branch"
+  594  git status
+  595  clear
+  596  ls
+  597  git branch
+  598  git add a1.txt 
+  599  git status
+  600  git reset --hard
+  601  git status
+  602  git clean -fd
+  603  clear
+  604  git branch 
+  605  git add a1.txt 
+  606  git status 
+  607  ls
+  608  cd cs131/
+  609  ls
+  610  cd A1
+  611  LS
+  612  ls
+  613  ls 
+  614  ccd ..
+  615  cd ..
+  616  ls
+  617  cd ..
+  618  ls
+  619  clear
+  620  ls
+  621  cat a1.txt 
+  622  clear
+  623  ls
+  624  cd cs131/
+  625  ls
+  626  cd A1/
+  627  ls
+  628  git branch 
+  629  cd ..
+  630  ls
+  631  git branch
+  632  gt checkout feature-branch
+  633  git  checkout feature-branch
+  634  ls
+  635  git status
+  636  ls
+  637  git add replies_original_ids_test.txt 
+  638  git status
+  639  git add a1.txt
+  640  git add replies_original_ids_test.txt
+  641  git status
+  642  pwd
+  643  ls
+  644  ls - la
+  645  ls -la
+  646  clear
+  647  git branch 
+  648  ls 
+  649  git add a1.txt 
+  650  git ststuis
+  651  git status
+  652  git checkout main
+  653  ls 
+  654  cat a1.txt 
+  655  ls 
+  656  cd cs131/
+  657  ls 
+  658  ls
+  659  cd A1
+  660  ls
+  661  git branch
+  662  git status
+  663  git add .
+  664  git status
+  665  git log
+  666  git commit -m "A1.txt"
+  667  git push
+  668  cd ..
+  669  ls
+  670  mv cs131 /Documents
+  671  sudo mv cs131 /Documents
+  672  cd cs131
+  673  ls
+  674  git init
+  675  git remote add origin https://github.com/chandrahassai/CS131.git
+  676  git remove remote origin
+  677  git remote remove origin
+  678  git init
+  679  git remote remove origin
+  680  git remote add origin https://github.com/chandrahassai/CS131.git
+  681  git branch
+  682  git status
+  683  git add .
+  684  rm -rf .git
+  685  git inti
+  686  git init
+  687  git commit -m "a1.txt"
+  688  git add .
+  689  ls
+  690  cd WS2
+  691  rm -rf .git
+  692  cd ..
+  693  rm -r WS2
+  694  ls
+  695  rm -rf .git
+  696  cd ..
+  697  cd cs131/
+  698  git init
+  699  git add .
+  700  git commit -m "Answers"
+  701  git remote add origin https://github.com/chandrahassai/CS131.git
+  702  git push -u origin main
+  703  git branch
+  704  git status
+  705  git push
+  706  git push --set-upstream origin master
+  707  exit
+  708  ls
+  709  pwd
+  710  ls
+  711  cd WS3
+  712  mkdir WS3
+  713  cd WS3
+  714  ls
+  715  sudo
+  716  yum
+  717  sudo yum install tmux
+  718  yum install tmux
+  719  tmux
+  720  tmux new-session -s homework
+  721  exit
+  722  git remote -v
+  723  git remote set-url origin git@github.com:chandrahassai/CS131.git
+  724  git add .
+  725  git commit "second commit"
+  726  git push master
+  727  git pull 
+  728  ssh-keygen -t rsa -b 4096 -C chandrahassai.vishnumolakala@sjsu.edu
+  729  cat ssh_key.pub
+  730  ssh -T git@github.com
+  731  echo $0
+  732  cat ~/.ssh/id_rsa.pub
+  733  ssh-add -l
+  734  nano ~/.ssh/config
+  735  ssh-keygen -t ed25519 -C "chandrahassai.vishnumolakala@sjsu.edu"
+  736  echo ~
+  737  exit
+  738  cat twitter_data.txt | grep -o '#[A-Za-z0-9_]*' | sort | uniq -c | sort -nr | head -30
+  739  cat twitter_data.txt | grep -o '@[A-Za-z0-9_]*' | sort | uniq -c | sort -nr | head -30
+  740  head -n 1 /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv
+  741  awk -F'\t' '{print $3}' /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv | grep -o '#[A-Za-z0-9_]*' | sort | uniq -c | sort -nr | head -30
+  742  awk -F'\t' '{print $3}' /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv | grep -o '#[A-Za-z0-9_]*' | sort | uniq -c | sort -nr | head -30
+  743  cat /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_nolf.ASCII.CLEAN.tsv /mnt/scratch/CS131_billa/billandreopoulos/downloaded_tweets_extend_original_ids_nolf.ASCII.CLEAN.tsv | awk -F'\t' '{print $3}' | grep -o '#[A-Za-z0-9_]*' | tr '[:upper:]' '[:lower:]' | sort | uniq -c | sort -nr | head -30
+  744  tmux new-session -s homework
+  745  tmux attach -t homework
+  746  less ws3.txt
+  747  nano ws3.txt
+  748  pwd
+  749  mv ws3.txt ~/CS131/WS3/
+  750  mkdir -p ~/path_to_your_repo/CS131/WS3
+  751  cp ws3.txt ~/path_to_your_repo/CS131/WS3/
+  752  cp cmds.log ~/path_to_your_repo/CS131/WS3/
+  753  ls -la /mnt/scratch/CS131_billa/VishnumolakalaChandrahasSai
+  754  find /mnt/scratch/CS131_billa -name "cmds.log"
+  755  mv /mnt/scratch/CS131_billa/other_directory/cmds.log ~/CS131/WS3/
+  756  history > /mnt/scratch/CS131_billa/VishnumolakalaChandrahasSai/cmds.log
+  757  find /mnt/scratch/CS131_billa -name "cmds.log"
+  758  ls -ld /mnt/scratch/CS131_billa
+  759  mv /mnt/scratch/CS131_billa/VishnumolakalaChandrahasSai/cmds.log ~/CS131/WS3/
+  760  mv /mnt/scratch/CS131_billa/VishnumolakalaChandrahasSai/cmds.log ~/CS131/ws3.txt/
+  761  mv /mnt/scratch/CS131_billa/VishnumolakalaChandrahasSai/cmds.log ~/CS131/WS3/
+  762  cd /mnt/scratch/CS131_billa/VishnumolakalaChandrahasSai
+  763  pwd
+  764  ls -la
+  765  touch cmds.log
+  766  history > cmds.log
